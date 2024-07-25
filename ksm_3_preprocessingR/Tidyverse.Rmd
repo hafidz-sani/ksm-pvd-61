@@ -1,0 +1,267 @@
+---
+title: "Explorasi Data dengan Tidyverse"
+author: "KSM - 3"
+date: "11/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(DT)
+```
+package tidyverse merupakan kumpulan dari beberapa package lainnya, seperti package readr,tidyr,dplyr,ggplot2 dan package lainnya. Beberapa package yang pada umum nya digunakan yaitu :\
+1. readr    : untuk import data\
+2. tidyr    : memiliki fungsi-fungsi untuk merapihkan data , seperti gather() dan spread()\
+3. dplyr    : untuk melakukan manipulasi/transformasi data \
+4. ggplot2  : untuk kebutuhan visualisasi
+
+
+EKSPLORASI DATA MENGGUNAKAN FUNGSI DALAM PACKAGE DPLYR
+```{r}
+# Inmport data
+jkt <- read.csv("C:\\Users\\Hp\\Downloads\\KSM_3\\Dataset\\ksm-2_data_penduduk.dki.csv", header = TRUE)
+
+# melihat dimensi data (banyak baris dan kolom)
+dim(jkt)
+
+# melihat tipe data
+glimpse(jkt)
+
+# atau
+str(jkt)
+
+# menampilkan data teratas
+datatable(head(jkt))
+
+# menampilkan data terbawah
+datatable(tail(jkt))
+
+
+```
+
+```{r}
+# menamiplkan deskripsi data
+summary(jkt)
+```
+#### 1. Summarise()
+menghitung suatu kolom dengan fungsi tertentu
+```{r}
+summarise(jkt, luas_dki = sum(LUAS.WILAYAH..KM2.))
+```
+
+fungsi yang sering digunakan pada summarise
+
+> Center: mean(), median()
+
+> Spread: sd(), IQR(), mad()
+
+> Range: min(), max(), quantile()
+
+> Position: first(), last(), nth()
+
+> Count: n(), n_distinct()
+
+> Logical: any(), all()
+
+
+#### 2. distinct()
+mengambil nilai unik sebuah satu variabel
+```{r}
+distinct(jkt, NAMA.PROVINSI, NAMA.KABUPATEN.KOTA)
+
+datatable(distinct(jkt, NAMA.PROVINSI, NAMA.KABUPATEN.KOTA))
+```
+
+#### 3. count()
+menghitung jumlah baris dari nilai yang unik dari satu kolom
+```{r}
+count(jkt, NAMA.KABUPATEN.KOTA)
+```
+
+#### 4. group_by()
+memasukkan data kedalam grup/kelas dari variabel kategorik\
+group_by(data, kolom1, kolom2,...)
+```{r}
+
+group <- group_by(jkt, NAMA.KABUPATEN.KOTA, LUAS.WILAYAH..KM2.)
+datatable(group)
+```
+
+> group_by() hanya mengelompokkan, tidak menghasilkan dataset baru
+
+> ungroup(data) jika ingin menghilangkan kelompoknya
+
+#### 5. select()
+Memilih atau membuang beberapa variable yang akan/tidak digunakan 
+```{r}
+# Memilih beberapa variabel dengan nama variabel
+datatable(select(jkt, NAMA.PROVINSI, NAMA.KABUPATEN.KOTA))
+
+# Menghapus beberapa variabel dengan indeks
+datatable(select(jkt, c(-9:-20)))
+```
+
+Memilih baris data berdasarkan indeks baris atau nilai pada variabel tertentu dengan slice() dan filter()
+
+#### 5. slice()
+slice() berfungsi untuk mensubset baris data berdasarkan indeks barisnya.\
+Misalkan, slice(jkt, 3:10) berarti kita memilih data pada posisi baris ke-3 s/d ke-10
+```{r}
+datatable(slice(jkt, 3:10))
+
+datatable(slice(jkt, c(4, (n()-6):n())))
+```
+
+#### 6. filter()
+filter() berfungsi untuk memilih sebagian data berdasarkan nilai dari satu atau lebih variabel. Atau singkatnya menyaring data.
+
+filter(data, logical)
+
+```{r}
+datatable(filter(jkt, X35.39.Laki.Laki > 5000))
+```
+
+#### 6. arrange()
+Mengurutkan data dengan arrange()
+
+```{r}
+# Urutkan data frame berdasarkan variabel NAMA.KABUPATEN.KOTA, NAMA.KECAMATAN, LUAS.WILAYAH..KM2.
+datatable(arrange(jkt, NAMA.KABUPATEN.KOTA, 
+             NAMA.KECAMATAN, 
+             LUAS.WILAYAH..KM2.))
+# secara descending
+datatable(arrange(jkt, NAMA.KABUPATEN.KOTA, 
+                    NAMA.KECAMATAN, 
+                    desc(LUAS.WILAYAH..KM2.)))
+```
+
+#### 7. mutate()
+menghitung tiap data dalam suatu kolom dengan fungsi tertentu. Output akan ditampilkan dalam kolom yang baru
+
+```{r}
+datatable(mutate(jkt[6:7], persentase_luas_kalurahan = LUAS.WILAYAH..KM2./sum(LUAS.WILAYAH..KM2.)*100))
+```
+
+#### 8. top_n()
+memilih data terbesar atau terkecil sejumlah n top_n(data, n, kolom)
+
+```{r}
+datatable(top_n(jkt, 10, LUAS.WILAYAH..KM2.))
+```
+
+#### 9. sample_n()
+mengambil sampel sejumlah size
+
+sample_n(data, size, replace = FALSE, weight = NULL)
+```{r}
+datatable(sample_n(jkt, size = 10))
+
+datatable(sample_n(jkt, size = 7,  replace = FALSE, weight = LUAS.WILAYAH..KM2.))
+```
+
+
+#### 10. sample_frac()
+mengambil sampel sejumlah (size * jumlah baris)
+
+sample_frac(data, size, replace = FALSE, weight = NULL)
+
+```{r}
+datatable(sample_frac(jkt, size = 1))
+
+datatable(sample_frac(jkt, size = 0.8))
+
+datatable(sample_frac(jkt,
+                      size = 0.5,
+                      replace = FALSE,
+                      weight = LUAS.WILAYAH..KM2.)) 
+
+
+```
+size merupakan ukuran dari jumlah baris . \
+Jika total jumlah baris 267 , maka  size = 1. jadi size = 1 menggambarkan semua total baris.\ 
+Jika size = 0.5 itu berarti ukuran yang setengah dari total jumlah baris, untuk contoh dengan total 267 baris maka setengah nya yaitu 133.5 dan dibulatkan menjadi 134.s
+
+#### 11. transmute()
+fungsi select + mutate
+
+```{r}
+datatable(transmute(jkt, NAMA.KECAMATAN, NAMA.KELURAHAN, 
+          PERSENTASE.LUAS = round(LUAS.WILAYAH..KM2./sum(LUAS.WILAYAH..KM2.)*100, 2)))
+```
+
+#### Tabel Manipulation
+Membuat contoh data
+```{r}
+tb1 <- data.frame(x1 = c("A","B","C","D"),
+                  y1 = c(1,2,3,4))
+
+tb2 <- data.frame(x1 = c("B","C","E","F"),
+                  y2 = c(11,12,13,14))
+
+tb1
+tb2
+
+```
+#### 1. left_join()
+
+fungsi left_join() digunakan untuk menggabungkan semua data pada tabel sebelah kiri dengan data sebelah kanan. Data sebelah kanan yang ditampilkan adalah data yang berkaitan dengan data sebelah kiri, dan juga data yang tidak berkaitan. Namun, row data yang tidak berkaitan akan menjadi NA.
+
+```{r}
+left_join(tb1, tb2, by = "x1")
+```
+
+#### 2. right_join()
+
+fungsi right_join() adalah kebalikkan dari left_join() . Yaitu semua data pada tabel sebelah kanan akan digabungkan dengan data sebelah kiri. Data sebelah kiri yang ditampilkan adalah data yang berkaitan dengan data sebelah kanan.
+```{r}
+right_join(tb1, tb2, by = "x1")
+```
+
+#### 3. inner_join
+Fungsi inner_join() digunakan untuk menggabungkan tabel dengan mengambil data atau row dari tabel asal dan tabel tujuan kemudian row akan digabungkan dengan hasil yang ditampilkan adalah row yang saling berkaitan antara kedua tabel saja.
+```{r}
+inner_join(tb1, tb2, by = "x1")
+```
+
+#### 4. full_join()
+Fungsi full_join() digunakan untuk menggabungkan tabel dengan mengambil semua data atau row dari tabel asal dan semua row tabel tujuan kemudian row akan digabungkan dengan hasil yang ditampilkan adalah row yang saling berkaitan antara kedua tabel dan row yang tidak berkaitan
+```{r}
+full_join(tb1, tb2, by = "x1")
+```
+
+data
+```{r}
+y <- data.frame(x1 = c("A","B","C","D"),
+                x2 = c(1,2,3,4))
+
+z <- data.frame(x1 = c("B","C","E","F"),
+                x2 = c(2,3,5,6))
+```
+#### 5. intersect()
+baris yang sama antara y dan z
+```{r}
+intersect(y,z)
+```
+
+#### 6. union()
+seluruh baris di y atau z
+```{r}
+union(y,z)
+```
+
+#### 7. setdiff()
+baris yang ada di y tetapi  tidak ada di z
+```{r}
+setdiff(y,z)
+```
+
+### Helpful syntax
+#### Piping
+untuk memasukkan data/output kedalam argumen pertama dari fungsi setelahnya
+```{r}
+temp <- iris %>% group_by(Species)
+
+#sama seperti
+temp <- group_by(iris, Species)
+```
+

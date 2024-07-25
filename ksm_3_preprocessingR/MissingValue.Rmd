@@ -1,0 +1,77 @@
+---
+title: "Missing Value"
+author: "KSM - 3"
+date: "10/31/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+dataset <- read.csv("C:/Users/Hp/Downloads/KSM_3/Dataset/Dataset.csv", header = TRUE)
+dataset <- data.frame(dataset)
+dataset
+```
+Mengecek Missing Value
+
+1. Mengecek variabel/kolom apa saja yang terdapat missing value 
+```{r}
+list_na <- colnames(dataset)[ apply(dataset, 2, anyNA) ]
+list_na
+```
+2. Melihat jumlah missing value dalam kolom pada dataset
+```{r}
+MissingValue <- sapply(dataset, function(x) sum(is.na(x)))
+MissingValue
+```
+3. Melihat jumlah missing value secara total
+```{r}
+library(naniar)
+n_miss(dataset)
+```
+Mengatasi Missing Value
+
+
+Dalam suatu dataset terdapat beberapa variabel/kolom yang terdapat data kosong atau missing value, hal itu dapat mengganggu dalam pengalisaan dataset tersebut, oleh karena itu untuk mengatasi nya dapat dilakukan beberapa cara :
+
+1. Menghapus Missing Value
+
+Dalam menghapus missing value terdapat 2 pilihan , yaitu menghapus variiabel/kolom yang mengandung missing value atau menghapus beberapa baris data yang mengandung missing value ( pilihan terbaik )
+```{r}
+
+dataset1 <- read.csv("C:/Users/Hp/Downloads/KSM_3/Dataset/Dataset.csv", header = TRUE)
+dataset1 <- data.frame(dataset1)
+dataset1
+
+# Menghapus beberapa baris data yang mengandung missing value 
+ dataset1_drop <- na.omit(dataset1)	
+ dataset1_drop
+```
+
+2. Replace missing value
+
+Mengisi variabel/kolom yang memiliki missing value dengan nilai rata-rata dari suatu variabel/kolom
+```{r}
+dataset2 <- read.csv("C:/Users/Hp/Downloads/KSM_3/Dataset/Dataset.csv", header = TRUE)
+dataset2 <- data.frame(dataset)
+dataset2
+
+# nd.ms <- ifelse(is.na(nd.ms),
+#                       ave(nd.ms, FUN = function(x) mean(x, na.rm = TRUE)),
+#                       nd.ms)
+
+# note : nd.ms -> name_dataset$variabel : kolom dari suatu dataset yang mengandung missing value
+dataset2$Age = ifelse(is.na(dataset2$Age),
+                     ave(dataset2$Age, FUN = function (x)mean(x, na.rm = TRUE)),
+                     dataset2$Age)
+
+dataset2$Salary = ifelse(is.na(dataset2$Salary),
+                     ave(dataset2$Salary, FUN = function (x)mean(x, na.rm = TRUE)),
+                     dataset2$Salary)
+
+dataset2
+                       
+```
+

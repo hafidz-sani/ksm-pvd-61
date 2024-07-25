@@ -1,0 +1,500 @@
+Suhu,Kelembaban Relatif,Tutupan Awan,PMSL,Label
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Rendah,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Sedang,CC_Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Sedang,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Rendah,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,,Tidak Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Tinggi,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Tinggi,,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,,CC_Sangat Tinggi,PMSL_Rendah,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Tinggi,CC_Sangat Tinggi,PMSL_Tinggi,Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Tinggi,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Tinggi,Tidak Turun Hujan
+Suhu_Rendah,RH_Rendah,CC_Sangat Tinggi,PMSL_Sedang,Tidak Turun Hujan

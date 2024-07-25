@@ -1,0 +1,114 @@
+---
+title: "Data Preprocessing"
+author: "KSM - 3"
+date: "10/30/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Data Preprocessing merupakan tahap pertama dalam memproses data jika telah didapatkan, dalam data preprocessing terfapat 4 tahap :\
+1. Import data\
+2. Handling the Missing dataset\
+3. Encoding Categorical dataset\
+4. Splitting dataset\
+5. Feature Scalling\
+
+Dalam data preprocessing library yang kita butuh kan yaitu :
+library(dplyr)
+library(caTools)
+
+```{r cars}
+#import library
+library(dplyr)
+library(caTools)
+library(cleandata)
+```
+
+```{r}
+# Tahap 1 : Import data
+dataset <- read.csv("C:/Users/Hp/Downloads/KSM_3/Dataset/Dataset.csv", header = TRUE)
+dataset <- data.frame(dataset)
+dataset
+```
+
+```{r}
+# Tahap 2 : Menghandling missing data
+
+# Mengecek Missing Value
+MissingValue <- sapply(dataset, function(x) sum(is.na(x)))
+MissingValue
+```
+Mengatasi Missing value salah satu nya dengan mengisi nilai missing value nya dengan nilai rata-rata kolom tersebut
+
+```{r}
+dataset$Age = ifelse(is.na(dataset$Age),
+                     ave(dataset$Age, FUN = function (x)mean(x, na.rm = TRUE)),
+                     dataset$Age)
+
+dataset$Salary = ifelse(is.na(dataset$Salary),
+                     ave(dataset$Salary, FUN = function (x)mean(x, na.rm = TRUE)),
+                     dataset$Salary)
+
+dataset
+```
+
+dataset$Age : variabel/kolom yang memiliki missing value kemudian kita ambil dari dataset\
+ifelse()    : kondisi persyaratan, disini memiliki 3 parameter\
+1. is.na()     : untuk mengecek Missing Value, jika terdapat missing value maka mengeluarkan output YES, kemudian akan menuju ke parameter kedua\
+2. ave()       : untuk menemukan rata-rata\
+Karena kolom ini melaporkan nilai NA dari pengecekan menggunakan is.na(), kita perlu mengecualikan data nol dalam perhitungan mean, jika tidak, kita akan mendapatkan mean sebagai missing value.\
+
+Inilah alasan mengapa kita menggunakan na.rm = TRUE dalam fungsi mean kita , hal ini memiliki maksud untuk mendeklarasikan nilai-nilai yang harus digunakan dan yang harus dikecualikan saat menghitung mean dari vektor Age.\
+3. Pengembalian nilai ke variabel/kolom tersebut\
+\
+
+
+```{r}
+# tahap 3 : Categorical Data
+ dataset$Country = factor(dataset$Country, 
+                      levels = c('France', 'Spain', 'Germany'), 
+                      labels = c(1.0, 2.0, 3.0))
+
+ dataset$Purchased = factor(dataset$Purchased,
+                           levels = c('No', 'Yes'),
+                           labels = c(0, 1))
+ dataset$Purchased[is.na(dataset$Purchased)] <- 0
+ as.factor(dataset$Purchased)
+ str(dataset)
+ dataset
+
+
+```
+
+
+```{r}
+# Tahap 4 : Splitting  dataset menjadi training set dan test set
+set.seed(123)
+split = sample.split(dataset$Purchased, SplitRatio = 0.8)
+
+TraningSet = subset(dataset, split == TRUE)
+TestSet = subset(dataset, split == FALSE)
+TraningSet
+TestSet
+
+```
+Dalam machine learning, kami membagi data menjadi dua bagian:
+
+Training set: Bagian dari data yang merupakan tempat untuk menerapkan model machine learning .\
+Test Set    : Bagian dari data yang merupakan evaluasi performa model machine learning.
+
+Alasan kita membuat training set dan test set adalah untuk memastikan bahwa model machine learning kita tidak mempelajari terlalu banyak korelasi data yang diuji.
+
+```{r}
+# Tahap 5 : Feature scalling
+TraningSet[, 2:3] = scale(TraningSet[, 2:3])
+TestSet[, 2:3] = scale(TestSet[, 2:3])
+TraningSet
+TestSet
+```
+Feature Scaling adalah suatu cara untuk membuat numerical data pada dataset memiliki rentang nilai (scale) yang sama. Tidak ada lagi satu variabel data yang mendominasi variabel data lainnya.
+
+Diatas kertas, rumus yang digunakan untuk proses Feature Scaling ini adalah Standarisation dan Normalisation
